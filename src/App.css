@@ -1,0 +1,15 @@
+/* .bgLanding {
+  background-image: url("./Components/Images/bgLandingPage.png");
+  background-size: cover;
+  height: 100vh;
+} */
+
+input[type="file"] {
+  display: none;
+}
+
+.bgDetailUser {
+  background-image: url("./Components/Images/bgDetail.png");
+  background-size: cover;
+  height: 100vh;
+}
